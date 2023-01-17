@@ -1,0 +1,12 @@
+"
+ safeMint(bircleDeployer, 1, " your folder path /1.json"); 
+ safeMint(bircleDeployer, 2, " your folder path /2.json"); 
+ safeMint(bircleDeployer, 3, " your folder path /3.json"); 
+ safeMint(bircleDeployer, 4, " your folder path /4.json"); 
+ safeMint(bircleDeployer, 5, " your folder path /5.json"); 
+ safeMint(bircleDeployer, 6, " your folder path /6.json"); 
+ safeMint(bircleDeployer, 7, " your folder path /7.json"); 
+ safeMint(bircleDeployer, 8, " your folder path /8.json"); 
+ safeMint(bircleDeployer, 9, " your folder path /9.json"); 
+ safeMint(bircleDeployer, 10, " your folder path /10.json"); 
+"
